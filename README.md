@@ -15,7 +15,12 @@ augmented dataset.
 **39% reduction in collision rate**, evaluated across both open-loop and
 closed-loop frameworks.
 
-![Pipeline overview](figures/pipeline.png)
+![Pipeline overview](figures/Pipeline.jpg)
+![Quantitative_Results](figures/quantitative_results.png)
+![Qualitative_Results](figures/visual_results.png)
+![Qualitative_Results](figures/visual_results (2).png)
+![Qualitative_Results](figures/visual_results (3).png)
+
 
 ## Stack
 Python · PyTorch · Diffusion Models · nuScenes
