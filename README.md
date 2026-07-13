@@ -25,4 +25,4 @@ closed-loop frameworks.
 ## Stack
 Python · PyTorch · Diffusion Models · nuScenes
 
-📄 [Defense slides](slides/presentation.pdf)
+📄 [Slides](slides/presentation.pdf)
