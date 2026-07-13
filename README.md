@@ -18,8 +18,8 @@ closed-loop frameworks.
 ![Pipeline overview](figures/Pipeline.jpg)
 ![Quantitative_Results](figures/quantitative_results.png)
 ![Qualitative_Results](figures/visual_results.png)
-![Qualitative_Results](figures/visual_results (2).png)
-![Qualitative_Results](figures/visual_results (3).png)
+![Qualitative_Results](figures/visual_results_(2).png)
+![Qualitative_Results](figures/visual_results_(3).png)
 
 
 ## Stack
